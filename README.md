@@ -41,6 +41,20 @@ Este script Python simples utiliza a biblioteca Moviepy para converter um arquiv
 *   **`audio = video.audio`:** Extrai a faixa de áudio do vídeo.
 *   **`audio.write_audiofile('livro_salmos_C61_V_1_8.mp3')`:** Salva a faixa de áudio extraída em um arquivo MP3 com o nome especificado.
 
+## Requisitos
+
+- Python 3.x
+- [MoviePy](https://zulko.github.io/moviepy/)  
+- [FFmpeg](https://ffmpeg.org/) (necessário para o MoviePy funcionar corretamente)
+
+## Instalação
+
+1. **Clone o repositório (ou baixe o arquivo):**
+
+   ```bash
+   git clone https://github.com/Alan-0718-sj/coversor-video-para-audio.git
+   cd seurepositorio
+
 ## Observações
 
 *   **Nome do arquivo de vídeo:** Adapte o nome do arquivo de vídeo em `VideoFileClip()` para o nome do vídeo que você deseja converter.
