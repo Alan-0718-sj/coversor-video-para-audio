@@ -47,6 +47,11 @@ Este script Python simples utiliza a biblioteca Moviepy para converter um arquiv
 - [MoviePy](https://zulko.github.io/moviepy/)  
 - [FFmpeg](https://ffmpeg.org/) (necessário para o MoviePy funcionar corretamente)
 
+## Vídeo no YouTube
+
+- [Link](https://youtu.be/jqp9jnP8Fv0)
+
+
 ## Instalação
 
 1. **Clone o repositório (ou baixe o arquivo):**
